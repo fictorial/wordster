@@ -1,7 +1,5 @@
 Wordster
 
-Brian Hammond <io at brianhammond dot com>
-
 Submitted for Io Game Programming Contest Feb 2005
 
 License: BSD

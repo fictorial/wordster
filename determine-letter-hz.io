@@ -2,7 +2,6 @@
 // Useful for word games that generate a set of random letters with
 // which a player can create words. You don't want 'x' showing up
 // more than 'a' for instance since 'x' is used in far fewer words!
-// Brian Hammond <io at brianhammond dot com>
 
 wordsPath := if (Lobby args at(0), Lobby args at(0), "resources/words")
 file := File clone openForReading(wordsPath)

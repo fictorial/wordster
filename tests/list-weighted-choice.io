@@ -1,5 +1,4 @@
 // Testing the weightedChoice List method
-// Brian Hammond <io at brianhammond dot com>
 
 List weightedChoice := method(weights,
     if (weights count != count,

@@ -1,7 +1,7 @@
  #!/usr/bin/env ioDesktop
 
 // Wordster
-// Author: Brian Hammond <io at brianhammond dot com>
+// Author: Brian Hammond 
 // For: the first Io Game Development Competition Feb 2005
 // Contact: bhammond in #io on irc.freenode.net
 // License: BSD
